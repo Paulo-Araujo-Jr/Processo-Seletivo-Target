@@ -11,6 +11,10 @@ O projeto consiste em resolver vários desafios, cada um abordando diferentes as
 4. **Sequências Numéricas**: Completar a próxima sequência em uma série de padrões numéricos.
 5. **Interruptores e Lâmpadas**: Resolver um problema lógico envolvendo três interruptores e lâmpadas.
 
+### Ao escolher algum desafio, primeiro será mostrado a questão proposta
+### Ao clicar a tecla 'enter' do teclado será mostrado a resolução
+### A resolução do desafio durará 8 segundos na tela
+
 ## Requisitos
 
 - Ambiente de desenvolvimento Java configurado.
